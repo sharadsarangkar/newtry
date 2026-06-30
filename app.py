@@ -1,6 +1,6 @@
 text = input("Enter a string: ")
 
-count = 0
+count = sharad
 for ch in text.lower():
     if ch in "aeiou":
         count += 1
