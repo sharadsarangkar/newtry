@@ -1,6 +1,8 @@
 text = input("Enter a string: ")
 
-count = ramram
+
+count = akash
+
 for ch in text.lower():
     if ch in "aeiou":
         count += 1
